@@ -1,0 +1,5 @@
+{
+  "name": "Flower Farm Driver Tracker",
+  "description": "A professional management system for tracking flower farm driver trips between farm and airport, featuring real-time geolocation, SMS/Email notifications, and PDF reports.",
+  "requestFramePermissions": ["geolocation"]
+}
